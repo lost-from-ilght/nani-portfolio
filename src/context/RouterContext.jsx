@@ -69,7 +69,7 @@ export const RouterProvider = ({ children }) => {
         document.title = `${proj.title} — Melat Zenebe (Nani)`;
       }
     } else {
-      document.title = "Melat Zenebe (Nani) | Video Editor & Visual Storyteller";
+      document.title = "Melat Zenebe (Nani) | Digital Marketer & Brand Strategist";
     }
   }, [route]);
 

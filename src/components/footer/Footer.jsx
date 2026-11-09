@@ -17,7 +17,7 @@ const Footer = () => {
                 MELAT ZENEBE
               </span>
               <span className="text-amber-400 font-mono text-xs block">
-                Visual Storyteller &amp; Video Editor
+                Digital Marketer &amp; Brand Strategist
               </span>
             </div>
           </div>

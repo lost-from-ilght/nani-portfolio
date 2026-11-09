@@ -50,9 +50,9 @@ const Hero = () => {
               transition={{ duration: 0.6 }}
               className="text-4xl sm:text-6xl lg:text-7xl font-display font-extrabold tracking-tight text-white leading-[1.08]"
             >
-              Visual Storyteller{" "}
+              Digital Marketer{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-rose-400 to-purple-400">
-                &amp; Video Editor
+                &amp; Brand Strategist
               </span>
             </motion.h1>
 
@@ -64,7 +64,7 @@ const Hero = () => {
               className="h-10 sm:h-12 flex items-center mt-3 mb-4 overflow-hidden"
             >
               <div className="flex items-center gap-2.5 font-mono text-lg sm:text-2xl text-amber-300">
-                <span className="text-rose-500 font-bold">🎬</span>
+                <span className="text-rose-500 font-bold">✨</span>
                 <motion.span
                   key={titleIndex}
                   initial={{ opacity: 0, y: 15 }}
@@ -85,8 +85,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-2xl font-normal"
             >
-              Bridging <span className="text-white font-medium">Software Engineering precision</span> with{" "}
-              <span className="text-amber-400 font-medium">cinematic visual storytelling</span>. I film, cut, and color dynamic video content, capture live tech hackathons, and design high-converting brand campaigns that command attention.
+              Software Engineering graduate from <span className="text-white font-medium">AASTU</span> combining analytical problem-solving with data-driven <span className="text-amber-400 font-medium">digital marketing &amp; brand strategy</span>. Experienced in organizing tech event campaigns at ZemenayTech, managing e-commerce ventures, and creating high-converting multimedia content.
             </motion.p>
 
             {/* Action Buttons */}
@@ -215,13 +214,13 @@ const Hero = () => {
 
                     <div className="relative z-10">
                       <span className="inline-block px-2.5 py-0.5 rounded bg-amber-500/20 text-amber-300 border border-amber-500/30 text-[10px] font-mono uppercase mb-1.5">
-                        Featured Event Vlog
+                        Event Campaign &amp; Vlog
                       </span>
                       <h3 className="text-white font-display font-bold text-lg leading-snug">
                         IDEEZA Hub × Zemenay Tech Hackathon
                       </h3>
                       <p className="text-xs text-slate-300 mt-1 line-clamp-2">
-                        Filmed &amp; edited on-site by Melat Zenebe for TikTok &amp; Instagram platforms.
+                        Helped organize the event, manage logistics, and produced the official recap vlog for social platforms.
                       </p>
                       <div className="flex items-center justify-between mt-3 pt-2.5 border-t border-white/10 text-[11px] text-slate-400 font-mono">
                         <span className="flex items-center gap-1.5 text-amber-400">
@@ -237,8 +236,8 @@ const Hero = () => {
                 {/* Viewfinder Bottom Status */}
                 <div className="p-3.5 bg-dark-900/90 border-t border-white/10 flex items-center justify-between text-xs text-slate-400">
                   <div className="flex items-center gap-2">
-                    <Camera className="w-4 h-4 text-amber-400" />
-                    <span className="text-white font-medium text-[11px]">Shot on Mobile &amp; Rig</span>
+                    <Sparkles className="w-4 h-4 text-amber-400" />
+                    <span className="text-white font-medium text-[11px]">Event Logistics &amp; Social Content</span>
                   </div>
                   <div className="flex items-center gap-1.5 text-[11px] text-slate-300 font-mono">
                     <span className="text-emerald-400">● SOUND ON</span>

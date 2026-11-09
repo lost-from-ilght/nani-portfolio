@@ -4,16 +4,16 @@ export const personalInfo = {
   name: "Melat Zenebe",
   nickname: "Nani",
   fullName: "Melat Zenebe Kinfe",
-  title: "Video Editor & Visual Storyteller",
+  title: "Digital Marketer & Brand Strategist",
   subtitles: [
-    "Cinematic Video Editor",
-    "Brand Visual Designer",
-    "Event Videographer & Camerawoman",
-    "Digital Marketing & Content Creator",
-    "Software Engineering Graduate"
+    "Digital Marketing Specialist",
+    "Brand & Content Strategist",
+    "Social Campaign & Growth Lead",
+    "Creative Content & Video Editor",
+    "Software Engineering Graduate (AASTU)"
   ],
-  bio: "Software Engineering graduate from Addis Ababa Science and Technology University (AASTU) combining engineering precision with creative visual storytelling. Specializing in high-retention video editing, dynamic event videography, and high-impact brand campaigns that captivate audiences and drive conversions.",
-  shortBio: "Crafting frames that move audiences. From high-energy tech hackathon vlogs to luxury real estate and corporate brand campaigns.",
+  bio: "Digital Marketer and Software Engineering graduate from Addis Ababa Science and Technology University (AASTU). Combining analytical strategy with high-impact brand content creation. Experienced in organizing tech hackathon events and coordinating social campaigns at ZemenayTech, managing e-commerce retail ventures, and producing high-converting visual assets and video edits that captivate audiences.",
+  shortBio: "Data-driven digital marketing and visual brand storytelling. From organizing tech event campaigns to crafting high-converting social media content.",
   location: "Addis Ababa, Ethiopia",
   email: "zenebe.nani1@gmail.com",
   phone: "+251908080400",
@@ -22,7 +22,7 @@ export const personalInfo = {
   avatar: "/media/portrait.jpg",
   portrait: "/media/portrait.jpg",
   eventImage: "/media/hackathon-recap.png",
-  status: "Available for Video Editing, Content Production & Brand Direction",
+  status: "Available for Digital Marketing, Brand Strategy & Content Campaigns",
   socials: {
     email: "mailto:zenebe.nani1@gmail.com",
     phone: "tel:+251908080400",
@@ -33,97 +33,123 @@ export const personalInfo = {
 };
 
 export const stats = [
-  { value: "80+", label: "Videos & Designs", description: "Reels, brand posters, and event recaps" },
-  { value: "50k+", label: "Social Impressions", description: "Across TikTok, Instagram & client campaigns" },
+  { value: "50k+", label: "Social Reach", description: "Across TikTok, Instagram & client campaigns" },
+  { value: "80+", label: "Campaigns & Creatives", description: "Brand posters, ad creatives & social reels" },
   { value: "AASTU", label: "Software Engineering", description: "B.Sc. Degree (Class of 2026)" },
   { value: "FCA", label: "Cohort 3 Class Rep", description: "Digital Marketing & E-Commerce" },
 ];
 
 export const showreelData = {
-  title: "IDEEZA Hub × Zemenay Tech Hackathon Vlog",
-  subtitle: "Official Behind-the-Scenes & High-Energy Recap",
+  title: "IDEEZA Hub × Zemenay Tech Hackathon Campaign",
+  subtitle: "Event Organization, Community Coordination & Official Vlog",
   videoUrl: "/videos/hackathon-vlog.mp4",
   driveUrl: "https://drive.google.com/file/d/16edBFBYoqTbSj3mf0oFiV5obvBplAoDn/view?usp=drive_link",
   poster: "/media/hackathon-recap.png",
   duration: "01:25",
   quality: "1080p FHD • 60 FPS",
   aspectRatio: "9:16 Vertical Reel",
-  role: "Director of Photography, Camera Operator & Lead Editor",
+  role: "Event Co-Organizer, Marketing Lead & Content Producer",
   platform: "Published on ZemenayTech TikTok & Instagram",
-  description: "A fast-paced, rhythmic event vlog capturing the electric atmosphere of the IDEEZA Hub × Zemenay Tech Hackathon — from sleepless coding sessions to intense project pitches and triumphant awards ceremonies."
+  description: "Helped with organizing the event and managing participant logistics to ensure the IDEEZA Hub × Zemenay Tech Hackathon ran smoothly, while orchestrating the social media coverage and editing this high-energy vlog to drive brand reach."
 };
 
 export const creativeCategories = [
   "All",
-  "Video & Motion",
-  "Brand Campaigns",
+  "Marketing & Campaigns",
+  "Brand Identity",
   "Commercial & Ads",
-  "Events & Coverage",
+  "Events & Community",
 ];
 
 export const creativeProjects = [
   {
     id: "hackathon-vlog",
-    title: "Hackathon Event Vlog & Video Coverage",
-    subtitle: "IDEEZA Hub × Zemenay Tech Official Vlog",
-    category: "Video & Motion",
+    title: "IDEEZA Hub × Zemenay Tech Hackathon Campaign",
+    subtitle: "Event Organization, Participant Logistics & Viral Recap Vlog",
+    category: "Events & Community",
     client: "ZemenayTech & IDEEZA Hub",
-    role: "Camera Operator & Video Editor",
+    role: "Event Co-Organizer & Digital Marketing Lead",
     year: "2026",
-    badge: "Featured Showreel",
+    badge: "Featured Event Campaign",
     featured: true,
     aspect: "portrait",
     mediaType: "video",
     videoUrl: "/videos/hackathon-vlog.mp4",
     driveUrl: "https://drive.google.com/file/d/16edBFBYoqTbSj3mf0oFiV5obvBplAoDn/view?usp=drive_link",
     image: "/media/hackathon-recap.png",
-    overview: "Filmed on-site during the intense IDEEZA Hub × Zemenay Tech Hackathon. Captured spontaneous moments, coder workflows, mentor check-ins, and final pitch triumphs, edited into a viral, high-retention vertical format with synchronized beat cuts.",
-    tools: ["Adobe Premiere Pro", "CapCut", "Audio Syncing", "Color Grading", "Mobile Cinematography"],
+    overview: "Helped organize and coordinate the IDEEZA Hub × Zemenay Tech Hackathon, facilitating logistics, schedule flow, and participant support so things went smoothly. Alongside on-site coordination, captured key event milestones and edited the official high-retention vertical vlog published on ZemenayTech's social media platforms.",
+    tools: ["Event Organization", "Social Media Marketing", "Adobe Premiere Pro", "CapCut", "Community Coordination"],
     highlights: [
-      "On-site camera operation and lighting under dynamic indoor event conditions",
-      "Fast turn-around timeline: filmed, cut, and finalized for same-week publishing",
-      "Soundtrack-synced quick cuts and expressive typography overlays",
-      "Published across ZemenayTech's official TikTok and Instagram channels with top engagement"
+      "Helped with organizing the event and ensured activities and schedule flow ran smoothly",
+      "Coordinated with hackathon teams, mentors, and partner organizers on-site",
+      "Documented key milestone highlights and edited a rhythm-synced recap vlog",
+      "Published across ZemenayTech's official TikTok and Instagram channels with peak community reach"
     ],
     gallery: [
-      { type: "video", src: "/videos/hackathon-vlog.mp4", caption: "Official Hackathon Vlog Video" },
-      { type: "image", src: "/media/hackathon-recap.png", caption: "Official Hackathon Recap Event Board" }
+      { type: "video", src: "/videos/hackathon-vlog.mp4", caption: "Official Hackathon Event Vlog (Edited for ZemenayTech)" },
+      { type: "image", src: "/media/hackathon-recap.png", caption: "Official IDEEZA Hub × Zemenay Tech Community Board" }
     ]
   },
   {
     id: "zemenay-brand-posters",
-    title: "ZemenayTech Visual Campaign Series",
-    subtitle: "Brand Storytelling & Strategic Tech Advertising",
-    category: "Brand Campaigns",
+    title: "ZemenayTech Strategic Brand Campaign",
+    subtitle: "Brand Storytelling & Corporate Tech Advertising",
+    category: "Brand Identity",
     client: "ZemenayTech",
-    role: "Brand Graphic Designer",
+    role: "Digital Marketing & Brand Designer",
     year: "2026",
     badge: "Corporate Series",
     featured: true,
     aspect: "portrait",
     mediaType: "gallery",
     image: "/media/zemenay-fit.jpg",
-    overview: "A cohesive series of high-impact corporate brand posters establishing ZemenayTech's identity in the African tech ecosystem. Focused on themes of talent acquisition ('The Right Fit Changes Everything'), problem-solving ('Complex Problems. Clear Solutions.'), and digital transformation ('One Smart Move. A Bigger Future.').",
-    tools: ["Canva Pro", "Graphic Design", "Typography", "Visual Identity", "Digital Compositing"],
+    overview: "A cohesive series of high-impact corporate brand posters establishing ZemenayTech's positioning in the technology ecosystem. Focused on strategic talent acquisition ('The Right Fit Changes Everything'), engineering capability ('Complex Problems. Clear Solutions.'), and digital vision ('One Smart Move. A Bigger Future.').",
+    tools: ["Canva Pro", "Brand Strategy", "Typography", "Visual Identity", "Digital Marketing"],
     highlights: [
-      "Consistent 3D glass and metallic visual motifs communicating reliability and futuristic technology",
-      "Clean hierarchy with balanced negative space tailored for both digital screens and corporate prints",
+      "Crafted strategic brand positioning aligned with ZemenayTech's commercial offerings",
+      "Consistent visual language communicating trust, high-tech innovation, and stability",
       "Reinforced core company pillars: Custom Development, Digital Products, and Smart Solutions",
       "Featured across corporate social media handles and internal presentations"
     ],
     gallery: [
-      { type: "image", src: "/media/zemenay-fit.jpg", caption: "The Right Fit Changes Everything — Talent & Team Growth" },
+      { type: "image", src: "/media/zemenay-fit.jpg", caption: "The Right Fit Changes Everything — Talent & Growth Strategy" },
       { type: "image", src: "/media/zemenay-solutions.jpg", caption: "Complex Problems. Clear Solutions. — Digital Engineering" },
       { type: "image", src: "/media/zemenay-future.jpg", caption: "One Smart Move. A Bigger Future. — Innovation & Strategy" }
     ]
   },
   {
+    id: "shein-curated-shop",
+    title: "BASS Online Shopping — Fashion & Retail",
+    subtitle: "Brand Identity, Merchandising & Digital Growth",
+    category: "Commercial & Ads",
+    client: "BASS Online Shopping",
+    role: "Founder & Digital Marketing Lead",
+    year: "2024 – 2025",
+    badge: "Brand Venture",
+    featured: true,
+    aspect: "portrait",
+    mediaType: "gallery",
+    image: "/media/bass-online-shopping.jpg",
+    overview: "Built and operated BASS Online Shopping, an independent digital apparel and lifestyle store. Designed the brand identity, social advertising creatives (including custom Instagram promo posts for men's suit lines and accessories), curated trending catalogs, and managed customer consultations.",
+    tools: ["Digital Marketing", "E-Commerce Strategy", "Canva Pro", "Social Media Advertising", "Customer Support"],
+    highlights: [
+      "Designed full brand visual identity and social banners for BASS Online Shopping",
+      "Created high-conversion promotional posts on Instagram (@bass_online_shopping) and TikTok",
+      "Curated international apparel collections with customized preorder workflows",
+      "Handled one-on-one direct customer communication and payment processing with high satisfaction"
+    ],
+    gallery: [
+      { type: "image", src: "/media/bass-online-shopping.jpg", caption: "BASS Online Shopping — Brand Identity & Visual Banner" },
+      { type: "image", src: "/media/bass-suit-discount.jpg", caption: "Promotional Ad Campaign on @bass_online_shopping" }
+    ]
+  },
+  {
     id: "ayat-real-estate",
-    title: "Ayat Real Estate Luxury Living Campaign",
+    title: "Ayat Real Estate Commercial Campaign",
     subtitle: "High-Conversion Property Promotional Design",
     category: "Commercial & Ads",
     client: "Ayat Share Company",
-    role: "Lead Graphic Designer",
+    role: "Lead Graphic Designer & Marketer",
     year: "2025",
     badge: "Commercial Ad",
     featured: true,
@@ -131,7 +157,7 @@ export const creativeProjects = [
     mediaType: "image",
     image: "/media/apartment-poster.png",
     overview: "Commercial real estate promotional poster designed in Amharic for Ayat Share Company. Showcasing modern residential village layouts, commercial centers, starting price points (89,815 ETB/sqm), flexible units (55 to 160 sqm), and accessible down payment terms (15%).",
-    tools: ["Canva", "Commercial Layout Design", "Amharic Typography", "Photo Retouching"],
+    tools: ["Commercial Advertising", "Canva Pro", "Amharic Typography", "Conversion Strategy"],
     highlights: [
       "Targeted localization with authentic Amharic copy hierarchy and engaging promotional badges",
       "Prominent placement of value propositions and immediate call-to-action incentives",
@@ -148,7 +174,7 @@ export const creativeProjects = [
     subtitle: "Web & Mobile Development Promotional Creative",
     category: "Commercial & Ads",
     client: "Behager Technologies",
-    role: "Social Media Graphic Designer",
+    role: "Social Media Marketer & Designer",
     year: "2025",
     badge: "Digital Promo",
     featured: true,
@@ -156,7 +182,7 @@ export const creativeProjects = [
     mediaType: "image",
     image: "/media/job-ad-post.png",
     overview: "Modern, high-conversion Instagram and Facebook promotional ad for Behager Technologies. Highlighted custom web and mobile app development, UI/UX design, e-commerce systems, and branding with an eye-catching 50% discount badge.",
-    tools: ["Canva", "Social Media Advertising", "Vector Layout", "Conversion Optimization"],
+    tools: ["Social Media Marketing", "Canva", "Conversion Optimization", "Ad Copy Layout"],
     highlights: [
       "Geometric brand accents using corporate green and dark contrast blocks",
       "Clear service bullet points: Web, Mobile, UI/UX, E-commerce, CMS Integration",
@@ -171,51 +197,25 @@ export const creativeProjects = [
     id: "hackathon-visual-recap",
     title: "Hackathon Recap & Community Showcase",
     subtitle: "IDEEZA Hub × Zemenay Tech Official Recap Poster",
-    category: "Events & Coverage",
+    category: "Events & Community",
     client: "IDEEZA Hub × ZemenayTech",
-    role: "Visual Content Creator & Event Photographer",
+    role: "Event Co-Organizer & Content Creator",
     year: "2026",
-    badge: "Event Media",
+    badge: "Community Event",
     featured: true,
     aspect: "portrait",
     mediaType: "image",
     image: "/media/hackathon-recap.png",
-    overview: "Official visual event recap poster created for the IDEEZA Hub × Zemenay Tech Hackathon. Commemorating the developers, mentors, and community energy with Polaroid framing, textured background treatments, and dynamic typographic callouts ('Ideas. People. Opportunities.').",
-    tools: ["Canva Pro", "Graphic Design", "Event Photography", "Visual Composition"],
+    overview: "Official visual event recap poster created for the IDEEZA Hub × Zemenay Tech Hackathon celebrating participants, winning solutions, and hackathon milestones. Commemorating the community energy with Polaroid framing, textured background treatments, and dynamic typographic callouts ('Ideas. People. Opportunities.').",
+    tools: ["Event Marketing", "Canva Pro", "Brand Collaboration", "Community Engagement"],
     highlights: [
-      "Captured live candid group portrait and milestone moments during hackathon demos",
+      "Helped coordinate event proceedings and documented participant team milestones",
       "Designed modern community recap board published across co-organizer networks",
       "Aligned ZemenayTech branding with IDEEZA Hub partner identity",
       "Created versatile assets for Instagram story updates and printed event memories"
     ],
     gallery: [
       { type: "image", src: "/media/hackathon-recap.png", caption: "Official IDEEZA Hub × Zemenay Tech Hackathon Recap Board" }
-    ]
-  },
-  {
-    id: "shein-curated-shop",
-    title: "BASS Online Shopping — Fashion & Retail",
-    subtitle: "Brand Identity, Merchandising & Digital Growth",
-    category: "Commercial & Ads",
-    client: "BASS Online Shopping",
-    role: "Founder, Creative Lead & Operations",
-    year: "2024 – 2025",
-    badge: "Brand Venture",
-    featured: true,
-    aspect: "portrait",
-    mediaType: "gallery",
-    image: "/media/bass-online-shopping.jpg",
-    overview: "Built and operated BASS Online Shopping, an independent digital apparel and lifestyle store. Designed the brand identity, social advertising creatives (including custom Instagram promo posts for men's suit lines and accessories), curated trending catalogs, and managed customer consultations.",
-    tools: ["Canva Pro", "E-Commerce Strategy", "Social Media Advertising", "Customer Support", "Catalog Styling"],
-    highlights: [
-      "Designed full brand visual identity and social banners for BASS Online Shopping",
-      "Created high-conversion promotional posts on Instagram (@bass_online_shopping) and TikTok",
-      "Curated international apparel collections with customized preorder workflows",
-      "Handled one-on-one direct customer communication and payment processing with high satisfaction"
-    ],
-    gallery: [
-      { type: "image", src: "/media/bass-online-shopping.jpg", caption: "BASS Online Shopping — Brand Identity & Visual Banner" },
-      { type: "image", src: "/media/bass-suit-discount.jpg", caption: "Promotional Ad Campaign on @bass_online_shopping" }
     ]
   }
 ];
@@ -224,29 +224,29 @@ export const projects = creativeProjects;
 
 export const creativePillars = [
   {
-    title: "Cinematic Video Editing & Motion",
-    subtitle: "Pacing, Rhythm & Retention",
-    description: "Editing footage that captures attention in the first 2 seconds and holds it. Seamless beat-synced transitions, tasteful motion graphics, clear kinetic typography, and polished audio design tailored for modern social feeds and corporate screens.",
-    tools: ["Adobe Premiere Pro", "CapCut Pro", "Adobe After Effects", "Sound Mastering", "Color Grading"],
-    metric: "80+ Edits Completed",
+    title: "Digital Marketing & Campaign Strategy",
+    subtitle: "Funnel Strategy & Audience Growth",
+    description: "Designing end-to-end digital marketing funnels that attract, engage, and convert. Specializing in social media campaign management, content calendars, audience targeting, and analytics-driven optimization.",
+    tools: ["Meta Business Suite", "Content Strategy", "Mailchimp", "WordPress", "Audience Targeting"],
+    metric: "Certified Marketer",
     accent: "from-amber-500/20 to-rose-500/10",
     border: "border-amber-500/30",
     tagColor: "text-amber-400"
   },
   {
-    title: "Event Videography & Camera Work",
-    subtitle: "Behind the Lens at High-Energy Moments",
-    description: "Hands-on experience covering live technology hackathons, multi-day conferences, and studio shoots. Knowing how to anticipate key moments, direct participants naturally, and capture crisp B-roll that tells a complete story.",
-    tools: ["Camera Operation", "Studio Lighting", "Live Interviews", "Gimbal Staging", "Mobile Cinematography"],
-    metric: "IDEEZA Hub × Zemenay",
+    title: "Event Organization & Logistics",
+    subtitle: "Hands-on Tech Event Operations",
+    description: "Proven experience helping organize and coordinate major community events such as the IDEEZA Hub × Zemenay Tech Hackathon. Managing schedule flow, participant logistics, and ensuring live events execute without friction.",
+    tools: ["Event Coordination", "Logistics Planning", "Participant Operations", "On-site Flow"],
+    metric: "IDEEZA × Zemenay",
     accent: "from-rose-500/20 to-purple-500/10",
     border: "border-rose-500/30",
     tagColor: "text-rose-400"
   },
   {
-    title: "Brand Design & Commercial Visuals",
+    title: "Brand Visuals & Commercial Design",
     subtitle: "High-Impact Graphic Identity",
-    description: "Transforming brand concepts into striking visual assets. From futuristic corporate posters and real estate campaigns to conversion-focused Instagram advertising graphics that stand out in crowded feeds.",
+    description: "Transforming brand concepts into striking marketing assets. From futuristic corporate posters and real estate campaigns to conversion-focused social media advertising graphics that command feed attention.",
     tools: ["Canva Pro", "Graphic Design", "Typography", "Visual Hierarchy", "Ad Creatives"],
     metric: "Multi-Industry Reach",
     accent: "from-purple-500/20 to-indigo-500/10",
@@ -254,11 +254,11 @@ export const creativePillars = [
     tagColor: "text-purple-400"
   },
   {
-    title: "Engineering Logic & Digital Growth",
-    subtitle: "AASTU Software Engineering + Marketing",
-    description: "A rare blend of Software Engineering analytical discipline with digital marketing acumen (FCA Class Rep, Google & HubSpot certified). Understanding user psychology, analytics, funnel metrics, and AI workflow acceleration.",
-    tools: ["HTML/CSS", "Meta Business Suite", "Mailchimp", "WordPress", "ChatGPT & Claude"],
-    metric: "B.Sc. Software Eng.",
+    title: "Multimedia Content & Video Editing",
+    subtitle: "Pacing, Rhythm & Social Retention",
+    description: "Editing footage that captures attention in the first 2 seconds and holds it. Seamless beat-synced transitions, kinetic subtitles, and polished audio design tailored for modern social feeds.",
+    tools: ["Adobe Premiere Pro", "CapCut Pro", "After Effects", "Sound Sync", "Short-Form Pacing"],
+    metric: "High-Retention Edits",
     accent: "from-cyan-500/20 to-blue-500/10",
     border: "border-cyan-500/30",
     tagColor: "text-cyan-400"
@@ -268,34 +268,34 @@ export const creativePillars = [
 export const experiences = [
   {
     company: "ZemenayTech",
-    role: "Digital Marketing Intern | Content & Video Production",
+    role: "Digital Marketing Intern | Brand & Event Content",
     location: "Addis Ababa, Ethiopia",
     period: "10/2026 – Present",
     badge: "Current",
-    type: "Digital Marketing & Video Production",
+    type: "Digital Marketing & Strategy",
     bullets: [
-      "Assist the company's Marketing and Brand/Content Lead with multimedia content production, marketing strategy, and brand storytelling.",
-      "Support hands-on video production, on-site studio shoots, interviews, and social media content creation.",
-      "Participated in live event coverage for technology gatherings, including the IDEEZA Hub × Zemenay Tech Hackathon.",
-      "Filmed, directed, and edited the official hackathon event vlog published on ZemenayTech's Instagram and TikTok platforms.",
-      "Designed corporate marketing campaign posters ('The Right Fit', 'Clear Solutions', 'A Bigger Future') conveying cutting-edge tech capabilities."
+      "Assist the company's Marketing and Brand/Content Lead with overarching digital marketing initiatives, campaign execution, and social media growth.",
+      "Helped with organizing the IDEEZA Hub × Zemenay Tech Hackathon, coordinating logistics and ensuring the event schedule ran smoothly for attendees and mentors.",
+      "Spearheaded multimedia content creation, filming and editing the official hackathon event vlog published on ZemenayTech's Instagram and TikTok platforms.",
+      "Designed corporate marketing campaign posters ('The Right Fit', 'Clear Solutions', 'A Bigger Future') conveying cutting-edge tech capabilities to enterprise clients.",
+      "Support on-site studio shoots, social media scheduling, and cross-channel marketing activities."
     ],
-    skills: ["Adobe Premiere Pro", "CapCut", "Camera Operation", "Event Coverage", "Canva", "Brand Content"]
+    skills: ["Digital Marketing", "Event Organization", "Canva", "CapCut", "Adobe Premiere Pro", "Brand Content"]
   },
   {
     company: "Freelance Creative",
-    role: "Graphic Designer & Video Editor",
+    role: "Digital Marketing & Graphic Designer",
     location: "Addis Ababa / Remote",
     period: "2024 – Present",
     badge: "Independent",
     type: "Client Projects & Commercial Ads",
     bullets: [
-      "Create custom graphic designs and visual assets for digital, print, and social media platforms.",
-      "Edit high-engagement short-form and promotional video content using CapCut, Adobe Premiere Pro, and Adobe After Effects.",
+      "Create custom graphic designs, visual ad assets, and social media campaigns for digital, print, and commercial clients.",
       "Produced commercial marketing campaigns for clients such as Ayat Real Estate (luxury housing posters) and Behager Technologies (social ads).",
-      "Maintain strict visual consistency, auditory pacing, and brand standards tailored to specific platform algorithms and audience demographics."
+      "Edit high-engagement short-form and promotional video content using CapCut, Adobe Premiere Pro, and Adobe After Effects.",
+      "Maintain strict visual consistency, audience targeting, and brand standards tailored to specific platform algorithms and demographic trends."
     ],
-    skills: ["Video Editing", "After Effects", "Canva", "Social Media Advertising", "Typography", "Visual Hierarchy"]
+    skills: ["Social Media Advertising", "Canva Pro", "Graphic Design", "Video Editing", "Typography", "Conversion Strategy"]
   },
   {
     company: "BASS Online Shopping (Self-Run)",
@@ -330,44 +330,43 @@ export const experiences = [
 
 export const skillCategories = [
   {
-    title: "Video Editing & Motion",
-    icon: "Video",
-    description: "Creating captivating visual rhythms, dynamic cuts, and seamless storytelling.",
+    title: "Digital Marketing & Growth",
+    icon: "TrendingUp",
+    description: "Data-driven campaign architecture, audience engagement, and conversion funnels.",
     skills: [
-      { name: "Adobe Premiere Pro", level: "Advanced", desc: "Long-form editing, multi-cam sync, timeline workflow" },
-      { name: "CapCut Pro", level: "Expert", desc: "Viral short-form pacing, trend audio, kinetic subtitles" },
-      { name: "Adobe After Effects", level: "Proficient", desc: "Motion graphics, visual effects, logo animations" },
-      { name: "Color Grading & LUTs", level: "Proficient", desc: "Cinematic tone mapping, skin-tone preservation" },
-      { name: "Audio Design & Beat Sync", level: "Advanced", desc: "Dynamic sound effects, voiceover clarity, beat cuts" },
-      { name: "Event Videography", level: "Advanced", desc: "Live event shooting, gimbal work, candid captures" },
+      { name: "Social Media Strategy", level: "Advanced", desc: "Trend analysis, content calendars, organic growth" },
+      { name: "Meta Business Suite", level: "Proficient", desc: "Instagram & Facebook ad campaigns, audience targeting" },
+      { name: "Content Marketing", level: "HubSpot Certified", desc: "Storytelling funnels, buyer persona engagement" },
+      { name: "E-Commerce Operations", level: "Practical Experience", desc: "Product curation, merchandising, customer loyalty" },
+      { name: "Mailchimp & WordPress", level: "Proficient", desc: "Email marketing sequences, CMS website publishing" },
     ]
   },
   {
-    title: "Graphic Design & Visuals",
+    title: "Brand Design & Visuals",
     icon: "Palette",
     description: "Designing memorable brand identities, marketing collateral, and commercial posters.",
     skills: [
-      { name: "Canva Pro", level: "Expert", desc: "Advanced layout design, typography, brand identity" },
+      { name: "Canva Pro", level: "Expert", desc: "Advanced layout design, typography, brand kits" },
       { name: "Commercial Poster Design", level: "Advanced", desc: "Real estate billboards, event flyers, corporate ads" },
-      { name: "Social Media Creative", level: "Expert", desc: "Instagram carousels, TikTok covers, LinkedIn graphics" },
+      { name: "Social Media Creative", level: "Expert", desc: "Instagram carousels, promotional ads, campaign banners" },
       { name: "Typography & Hierarchy", level: "Advanced", desc: "English & Amharic localized typographic layout" },
       { name: "Brand Style Systems", level: "Proficient", desc: "Color palettes, aesthetic continuity, asset libraries" },
     ]
   },
   {
-    title: "Digital Marketing & E-Commerce",
-    icon: "TrendingUp",
-    description: "Bridging creative visuals with conversion strategy, reach, and audience growth.",
+    title: "Event Operations & Content",
+    icon: "Video",
+    description: "Event coordination, on-site logistics flow, and high-retention video storytelling.",
     skills: [
-      { name: "Social Media Strategy", level: "Advanced", desc: "Organic growth, trend analysis, content calendars" },
-      { name: "Meta Business Suite", level: "Proficient", desc: "Instagram & Facebook ad campaigns, audience targeting" },
-      { name: "Content Marketing", level: "HubSpot Certified", desc: "Storytelling funnels, buyer persona engagement" },
-      { name: "E-Commerce Management", level: "Practical Experience", desc: "Product sourcing, pricing, customer care" },
-      { name: "Mailchimp & WordPress", level: "Proficient", desc: "Email marketing sequences, CMS website publishing" },
+      { name: "Event Organization", level: "Experienced", desc: "Logistics, participant coordination, schedule flow" },
+      { name: "Adobe Premiere Pro", level: "Advanced", desc: "Timeline workflow, multi-clip cuts, audio mastering" },
+      { name: "CapCut Pro", level: "Expert", desc: "Viral short-form pacing, trend audio, kinetic subtitles" },
+      { name: "Video Color & Audio Sync", level: "Proficient", desc: "Dynamic sound effects, beat cuts, color grading" },
+      { name: "Event Coverage", level: "Advanced", desc: "Capturing candid highlights and community energy" },
     ]
   },
   {
-    title: "Technical & AI Tools",
+    title: "Technical Discipline & AI",
     icon: "Sparkles",
     description: "Software engineering logic combined with frontier generative AI workflows.",
     skills: [

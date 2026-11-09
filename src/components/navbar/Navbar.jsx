@@ -84,8 +84,8 @@ const Navbar = () => {
                   </span>
                 </div>
                 <span className="text-[9px] text-slate-400 flex items-center gap-1 font-mono uppercase tracking-wider mt-1">
-                  <span className="w-1 h-1 rounded-full bg-rose-500" />
-                  Visual Storyteller
+                  <span className="w-1 h-1 rounded-full bg-amber-400" />
+                  Digital Marketer &amp; Strategist
                 </span>
               </div>
             </a>

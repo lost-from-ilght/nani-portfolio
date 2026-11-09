@@ -103,13 +103,13 @@ const About = () => {
           >
             <div className="p-6 sm:p-8 rounded-3xl bg-dark-900/60 border border-white/10 backdrop-blur-xl">
               <h3 className="text-xl sm:text-2xl font-display font-bold text-white mb-3">
-                Crafting Visual Experiences That Command Attention
+                Driving Brand Growth Through Strategic Digital Marketing
               </h3>
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-                I am a Software Engineering graduate from <strong className="text-white font-semibold">Addis Ababa Science and Technology University (AASTU)</strong> with hands-on expertise as a <strong className="text-amber-400 font-semibold">Digital Marketing Intern</strong> at <strong className="text-amber-400 font-semibold">ZemenayTech</strong>, leading video production, studio shoots, and brand content creation.
+                I am a Software Engineering graduate from <strong className="text-white font-semibold">Addis Ababa Science and Technology University (AASTU)</strong> and a certified <strong className="text-amber-400 font-semibold">Digital Marketer</strong>. As a Digital Marketing Intern at <strong className="text-amber-400 font-semibold">ZemenayTech</strong>, I helped with organizing the IDEEZA Hub × Zemenay Tech Hackathon to ensure event operations and logistics ran smoothly, while leading the social campaign coverage, brand content, and official recap vlog.
               </p>
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed mt-4">
-                My approach to video editing and visual design is driven by both <span className="text-white font-medium">analytical structure</span> and <span className="text-amber-400 font-medium">cinematic intuition</span>. Whether filming rapid-paced event footage at technology hackathons, color-grading commercial campaigns for real estate, or tailoring high-conversion social reels for TikTok and Instagram, every frame is treated with intentional rhythm, typography, and sound design.
+                My primary expertise is <span className="text-white font-medium">digital marketing, campaign strategy, and brand storytelling</span>. By combining analytical systems thinking from software engineering with conversion psychology, I create data-driven social media strategies, commercial advertising campaigns, and compelling multimedia assets that captivate audiences and deliver measurable results.
               </p>
 
               {/* Education & Language Pills */}

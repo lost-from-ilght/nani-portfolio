@@ -62,8 +62,8 @@ const ShowreelSection = () => {
             viewport={{ once: true }}
             className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-950/60 border border-amber-500/30 text-amber-400 text-xs font-mono uppercase tracking-wider mb-4 shadow-glowGold"
           >
-            <Film className="w-3.5 h-3.5" />
-            Featured Showreel &amp; Event Film
+            <Sparkles className="w-3.5 h-3.5" />
+            Content Marketing &amp; Event Campaign
           </motion.div>
           
           <motion.h2
@@ -73,9 +73,9 @@ const ShowreelSection = () => {
             transition={{ delay: 0.1 }}
             className="text-3xl sm:text-5xl font-display font-extrabold text-white tracking-tight"
           >
-            Capturing the Pulse of{" "}
+            Content Marketing in Action:{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-rose-400 to-purple-400">
-              Live Tech Events
+              Live Event Campaign
             </span>
           </motion.h2>
 
@@ -86,7 +86,7 @@ const ShowreelSection = () => {
             transition={{ delay: 0.2 }}
             className="mt-4 text-slate-300 text-base sm:text-lg leading-relaxed"
           >
-            Behind the camera and at the edit suite for the IDEEZA Hub × Zemenay Tech Hackathon. A high-energy vertical vlog engineered for maximum retention.
+            I helped with organizing the IDEEZA Hub × Zemenay Tech Hackathon and made sure things ran smoothly, while orchestrating the social media coverage and editing this high-energy recap vlog to drive brand reach.
           </motion.p>
         </div>
 
@@ -200,41 +200,41 @@ const ShowreelSection = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5 pt-2">
               <div className="p-3.5 rounded-xl bg-dark-950/80 border border-white/10">
                 <div className="flex items-center gap-2 text-amber-400 text-xs font-semibold mb-1">
-                  <Camera className="w-4 h-4" />
-                  <span>Camera &amp; Shooting</span>
+                  <Sparkles className="w-4 h-4" />
+                  <span>Event Organization &amp; Logistics</span>
                 </div>
                 <p className="text-xs text-slate-400">
-                  Mobile cinematography rig with stabilization, tracking moving participants and capturing genuine developer focus.
+                  Helped with organizing the event on-site, facilitating team check-ins, mentor sessions, and ensuring everything ran smoothly.
                 </p>
               </div>
 
               <div className="p-3.5 rounded-xl bg-dark-950/80 border border-white/10">
                 <div className="flex items-center gap-2 text-rose-400 text-xs font-semibold mb-1">
-                  <Sparkles className="w-4 h-4" />
-                  <span>Pacing &amp; Audio Cuts</span>
+                  <Flame className="w-4 h-4" />
+                  <span>Campaign &amp; Pacing</span>
                 </div>
                 <p className="text-xs text-slate-400">
-                  Rapid-tempo transitions synced precisely to background beats to maintain viewer retention across TikTok and Instagram reels.
+                  Rhythmic beat-synced cuts, dynamic zoom transitions, and kinetic subtitles crafted for maximum audience retention.
                 </p>
               </div>
 
               <div className="p-3.5 rounded-xl bg-dark-950/80 border border-white/10">
                 <div className="flex items-center gap-2 text-purple-400 text-xs font-semibold mb-1">
                   <Layers className="w-4 h-4" />
-                  <span>Edit Suite &amp; Tools</span>
+                  <span>Tools &amp; Edit Suite</span>
                 </div>
                 <p className="text-xs text-slate-400">
-                  Adobe Premiere Pro &amp; CapCut Pro, multi-clip timeline trimming, speed ramps, and localized captions.
+                  Cut and finalized with Adobe Premiere Pro and CapCut Pro, including custom sound effects and localized branding.
                 </p>
               </div>
 
               <div className="p-3.5 rounded-xl bg-dark-950/80 border border-white/10">
                 <div className="flex items-center gap-2 text-cyan-400 text-xs font-semibold mb-1">
-                  <Flame className="w-4 h-4" />
-                  <span>Platform Delivery</span>
+                  <CheckCircle2 className="w-4 h-4" />
+                  <span>Social Growth Delivery</span>
                 </div>
                 <p className="text-xs text-slate-400">
-                  Targeted vertical 9:16 export optimized for the TikTok &amp; Instagram algorithm and audience engagement.
+                  Vertical 9:16 format deployed across ZemenayTech's TikTok and Instagram channels for peak engagement.
                 </p>
               </div>
             </div>
